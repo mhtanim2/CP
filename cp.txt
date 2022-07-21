@@ -1,2 +1,4 @@
   //opearation between two character string
   System.out.print((char) ('0' + 9 - num.charAt(0) + '0'));
+//matrix get middle position count
+(Math.abs(2-j)+Math.abs(2-i)
