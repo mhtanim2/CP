@@ -1,0 +1,2 @@
+  //opearation between two character string
+  System.out.print((char) ('0' + 9 - num.charAt(0) + '0'));
